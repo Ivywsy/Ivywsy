@@ -4,6 +4,22 @@ My name is [Ivy Wu](https://www.linkedin.com/in/ivy-wusumyi/). I am a data-savvy
 
 I am interested in storytelling with data and actively look for ways to understand what data is. I have always believed that data analytics is important for every business by uncovering hidden patterns and insights - and probably get every answers from it 💬.
 
+<details>
+<summary>:point_right: <b>Click to see my skill sets</b></summary>
+
+  * R (forecast, tidymodels, ggplot2, Tidyverse, dplyr data analysis package)
+* Python (Data analysing with Pandas module)
+* VBA/User Forms/Pivot Table
+* SPSS (Descriptive Model, Regression, ANOVA, Decision Tree Modelling)
+* SAS E minor (Regression, Decision Tree, Neural Network Modelling)
+* Arena (Simulation Modelling)
+* Tableau (Visualisation with interactive dashboards)
+* IBM Cognos Analytics (Visualisation and forecast with interactive dashboards)
+* Microsoft SQL Server/ PostgreSQL (Subqueries, Aggregations, Conditional Statements, Data Manipulation)
+* Microsoft Access (Data manipulation with SQL, Report)
+
+</details>
+
 ### My Recent Projects
 
 |  Previews | Descriptions |
